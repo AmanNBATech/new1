@@ -1,0 +1,1 @@
+welcome to php tutorial and i am now praticising the file handling in read and write 
